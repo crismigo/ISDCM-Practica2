@@ -9,8 +9,6 @@ import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
 import java.util.List;
 import isdcm.restservice.models.Video;
 import java.net.URLDecoder;
@@ -118,4 +116,5 @@ public class VideoService {
         List<Video> videos = Video.searchByDay(day);
         return Response.ok(videos).build();
     }
+    
 }

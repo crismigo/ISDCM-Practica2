@@ -1,4 +1,6 @@
 /home/alumne/NetBeansProjects/restService/src/main/java/isdcm/restservice/JakartaRestConfiguration.java
 /home/alumne/NetBeansProjects/restService/src/main/java/isdcm/restservice/services/VideoService.java
+/home/alumne/NetBeansProjects/restService/src/main/java/isdcm/restservice/models/Usuario.java
 /home/alumne/NetBeansProjects/restService/src/main/java/isdcm/restservice/models/Video.java
 /home/alumne/NetBeansProjects/restService/src/main/java/isdcm/restservice/resources/JakartaEE91Resource.java
+/home/alumne/NetBeansProjects/restService/src/main/java/isdcm/restservice/services/UserService.java
